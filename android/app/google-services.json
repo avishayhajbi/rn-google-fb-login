@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "242537845783",
+    "firebase_url": "https://choiser-1227.firebaseio.com",
+    "project_id": "choiser-1227",
+    "storage_bucket": "choiser-1227.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242537845783:android:570a26309edc07a5",
+        "android_client_info": {
+          "package_name": "com.choiser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242537845783-557engd99r8nnhj3k3a1rjsk0imv6s0h.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "242537845783-3ikcm51m2bjijh6adpmi9b62gvfmmr2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1W7Wc1guzC-p6m-5yl4AV6iPTANNZ8Wc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242537845783:android:a55cedacf841365b",
+        "android_client_info": {
+          "package_name": "com.isracard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242537845783-vqog8uug6nrt8p08hfqr6bc9k4uf4ad4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.isracard",
+            "certificate_hash": "255dce9a400477697991c356c1b3b86032d81a31"
+          }
+        },
+        {
+          "client_id": "242537845783-557engd99r8nnhj3k3a1rjsk0imv6s0h.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "242537845783-3ikcm51m2bjijh6adpmi9b62gvfmmr2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1W7Wc1guzC-p6m-5yl4AV6iPTANNZ8Wc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242537845783-90m2vg6h3tsgv9jiiq4aj0a6c2i3tbta.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.Isracard"
+              }
+            },
+            {
+              "client_id": "242537845783-557engd99r8nnhj3k3a1rjsk0imv6s0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
