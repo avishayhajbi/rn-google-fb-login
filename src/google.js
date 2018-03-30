@@ -13,7 +13,7 @@ export default class Google {
             GoogleSignin.configure({
                 scopes: ["https://www.googleapis.com/auth/drive.readonly"],
                 offlineAccess: false,
-                // iosClientId: APP_CONSTS.GOOGLE_KEY, // only for iOS
+                iosClientId: APP_CONSTS.GOOGLE_KEY, // only for iOS
                 webClientId: APP_CONSTS.GOOGLE_WEB,
 
             })
